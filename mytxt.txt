@@ -1,3 +1,5 @@
 hello friends
 
 This is Anulas!
+
+Text from clone folder.
